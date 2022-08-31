@@ -18,12 +18,12 @@
     {
       "id": "qywYp6hS0U",
       "uuid": "f96efce8-1909-4df4-b5cd-59883cd19c37",
-      "firstName": "Arely",
-      "lastName": "Kertzmann",
+      "firstName": "Camilo",
+      "lastName": "Zaik",
       "username": "Tavares_Barrows",
       "password": "$2a$10$5PXHGtcsckWtAprT5/JmluhR13f16BL8SIGhvAKNP.Dhxkt69FfzW",
-      "email": "Aniya_Powlowski36@hotmail.com",
-      "phoneNumber": "537-041-4355",
+      "email": "laonara@gmail.com",
+      "phoneNumber": "884-849-9170",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/qywYp6hS0U.svg",
       "defaultPrivacyLevel": "private",
       "balance": 101805,
@@ -74,6 +74,28 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "eKJwCJoj-",
+      "uuid": "f232c3b4-4455-4d45-b838-24eed1f466fd",
+      "firstName": "Mario",
+      "lastName": "Casas",
+      "username": "matraca",
+      "password": "$2a$10$ynR.o1yaihGtsAGDPC58dOJIZ0KbkeHcosIANH3J9I5gbOqtFNbmC",
+      "balance": 0,
+      "createdAt": "2022-08-31T23:09:15.709Z",
+      "modifiedAt": "2022-08-31T23:09:15.709Z"
+    },
+    {
+      "id": "WHXAMHQPo",
+      "uuid": "c748fac2-9237-47d7-a392-bac575648835",
+      "firstName": "Carmen",
+      "lastName": "Casta",
+      "username": "cartra",
+      "password": "$2a$10$0qESKh95G.sft9ib7NXU2uLpYpFlwAvVPO4guuYQC7gXoIyPGLwKK",
+      "balance": 0,
+      "createdAt": "2022-08-31T23:10:09.949Z",
+      "modifiedAt": "2022-08-31T23:10:09.949Z"
     }
   ],
   "contacts": [
@@ -217,7 +239,7 @@
       "bankName": "Kshlerin - Ledner Bank",
       "accountNumber": "3859571950",
       "routingNumber": "024971142",
-      "isDeleted": false,
+      "isDeleted": true,
       "createdAt": "2019-12-14T22:41:09.548Z",
       "modifiedAt": "2020-05-21T09:46:44.754Z"
     },
@@ -253,6 +275,28 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "0as7vF9lF",
+      "uuid": "fb662f81-d408-4876-b332-c90d66244684",
+      "userId": "WHXAMHQPo",
+      "bankName": "Banco Prueba",
+      "accountNumber": "789456321",
+      "routingNumber": "B8KAY819P",
+      "isDeleted": false,
+      "createdAt": "2022-08-31T23:10:13.370Z",
+      "modifiedAt": "2022-08-31T23:10:13.371Z"
+    },
+    {
+      "id": "7jzvxC_Gt",
+      "uuid": "5ea3c494-7d72-47c8-8397-6550bf656c83",
+      "userId": "qywYp6hS0U",
+      "bankName": "Davivienda",
+      "accountNumber": "457891235",
+      "routingNumber": "657891235",
+      "isDeleted": false,
+      "createdAt": "2022-08-31T23:10:17.724Z",
+      "modifiedAt": "2022-08-31T23:10:17.724Z"
     }
   ],
   "transactions": [
