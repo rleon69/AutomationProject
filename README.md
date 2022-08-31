@@ -1,9 +1,12 @@
-> 💬 **Note**
+### Postman Collection and Test Cases
+- #### Make sure the backend server is running when testing the postman collection, the files for the test cases and the collection can be found [Here](https://drive.google.com/drive/folders/1uoFPsRXI-Kt-8vIUXeoyOA9md9YiaG9Y?usp=sharing)
+
+> 🚩 **Note**
 > This application is not of my property, I only used it for testing purposes.
 
 ## Getting Started
 
-> 🚩 **Note**
+> **Note**
 > You can login to the app with any of the [example app users](./data/database.json#L2). The default password for all users is `s3cret`.  
 > Example users can be seen by running `yarn list:dev:users`.
 
@@ -31,24 +34,21 @@ yarn dev
 
 ### Start Cypress
 
-##### Run the next command to avoid time out errors
-
----
+- Run the next command to avoid time out errors
 
 ```shell
 npx cypress verify
 ```
 
-##### Open Cypress
+- Open Cypress
 
----
 
 ```shell
 yarn cypress:open
 ```
 
-> 💬 **Note**
-> The username and password are defined globally in [cypress.env.json](./cypress.env.json), as this is a testing user, their values weren't removed, please be aware of the data you leave in the application code.
+> **Note**
+> The username and password are defined globally in [cypress.env.json](./cypress.env.json). As this is a testing user, their values weren't removed, please be aware of the data you leave in the application code.
 
 ## Tests
 
